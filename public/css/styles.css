@@ -97,3 +97,23 @@ a{
 	    margin-bottom: 0.2rem;
 	    font-size: 0.7rem;
 }
+
+.form-avatar{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+
+.img-avatar{
+    border-radius: 50%;
+    width: 200px;
+    height: auto;
+  }
+
+@media (min-width: 576px){
+    .jumbotron {
+        padding: 1rem 1rem;
+    }
+
+
+}
